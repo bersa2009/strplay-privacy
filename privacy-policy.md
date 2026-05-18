@@ -48,7 +48,7 @@ We implement reasonable technical and organizational security measures to protec
 
 For privacy-related questions:
 
-Email: support@strplay.app
+Email: bersa.2009@gmail.com
 
 ## Changes
 
